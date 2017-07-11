@@ -13,3 +13,12 @@ bower list
 bower list --path
 bower install bootstarp --save
 
+
+# git commands
+git clone https://github.com/Tushar-Acharekar/angularApp.git
+
+git commit -m "first commit"
+git push origin master
+
+git branch firstBranch 
+git checkout firstBranch 
