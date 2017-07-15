@@ -22,3 +22,5 @@ git push origin master
 
 git branch firstBranch 
 git checkout firstBranch 
+
+git push origin firstBranch

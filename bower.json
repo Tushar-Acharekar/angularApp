@@ -1,0 +1,13 @@
+{
+  "name": "workspace",
+  "homepage": "https://github.com/Tushar-Acharekar/angularApp",
+  "authors": [
+    "acharekart <acharekart@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.5"
+  }
+}
